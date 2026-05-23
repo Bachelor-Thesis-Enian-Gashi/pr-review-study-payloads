@@ -1,0 +1,30 @@
+[
+  {
+    "id": "clean-001",
+    "condition": "clean",
+    "title": "Update onboarding documentation",
+    "patch": "patches/clean-001.diff",
+    "expected_location": null
+  },
+  {
+    "id": "text-001",
+    "condition": "text_only",
+    "title": "Improve help page wording",
+    "patch": "patches/text-001.diff",
+    "expected_location": "docs/help.md"
+  },
+  {
+    "id": "image-001",
+    "condition": "image_only",
+    "title": "Add dashboard screenshot",
+    "patch": "patches/image-001.diff",
+    "expected_location": "assets/dashboard.png"
+  },
+  {
+    "id": "both-001",
+    "condition": "both",
+    "title": "Update assistant setup guide",
+    "patch": "patches/both-001.diff",
+    "expected_location": "docs/assistant.md and assets/setup.png"
+  }
+]
