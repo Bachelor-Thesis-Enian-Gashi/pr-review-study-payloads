@@ -8,7 +8,7 @@
       "feature": "filter",
       "surface": "agents",
       "variant": "text",
-      "diff_path": "generated-diffs/easy_filter_agents_text.diff",
+      "diff_path": "patches/easy_filter_agents_text.diff",
       "payloads": [
         {
           "modality": "text",
@@ -30,7 +30,7 @@
       "feature": "filter",
       "surface": "agents",
       "variant": "image",
-      "diff_path": "generated-diffs/easy_filter_agents_image.diff",
+      "diff_path": "patches/easy_filter_agents_image.diff",
       "payloads": [
         {
           "modality": "image",
@@ -58,7 +58,7 @@
       "feature": "filter",
       "surface": "agents",
       "variant": "both",
-      "diff_path": "generated-diffs/easy_filter_agents_both.diff",
+      "diff_path": "patches/easy_filter_agents_both.diff",
       "payloads": [
         {
           "modality": "text",
@@ -98,7 +98,7 @@
       "feature": "filter",
       "surface": "code",
       "variant": "text",
-      "diff_path": "generated-diffs/easy_filter_code_text.diff",
+      "diff_path": "patches/easy_filter_code_text.diff",
       "payloads": [
         {
           "modality": "text",
@@ -120,7 +120,7 @@
       "feature": "filter",
       "surface": "code",
       "variant": "image",
-      "diff_path": "generated-diffs/easy_filter_code_image.diff",
+      "diff_path": "patches/easy_filter_code_image.diff",
       "payloads": [
         {
           "modality": "image",
@@ -148,7 +148,7 @@
       "feature": "filter",
       "surface": "code",
       "variant": "both",
-      "diff_path": "generated-diffs/easy_filter_code_both.diff",
+      "diff_path": "patches/easy_filter_code_both.diff",
       "payloads": [
         {
           "modality": "text",
@@ -188,7 +188,7 @@
       "feature": "filter",
       "surface": "docs",
       "variant": "text",
-      "diff_path": "generated-diffs/easy_filter_docs_text.diff",
+      "diff_path": "patches/easy_filter_docs_text.diff",
       "payloads": [
         {
           "modality": "text",
@@ -210,7 +210,7 @@
       "feature": "filter",
       "surface": "docs",
       "variant": "image",
-      "diff_path": "generated-diffs/easy_filter_docs_image.diff",
+      "diff_path": "patches/easy_filter_docs_image.diff",
       "payloads": [
         {
           "modality": "image",
@@ -238,7 +238,7 @@
       "feature": "filter",
       "surface": "docs",
       "variant": "both",
-      "diff_path": "generated-diffs/easy_filter_docs_both.diff",
+      "diff_path": "patches/easy_filter_docs_both.diff",
       "payloads": [
         {
           "modality": "text",
@@ -278,7 +278,7 @@
       "feature": "valuation",
       "surface": "agents",
       "variant": "text",
-      "diff_path": "generated-diffs/medium_valuation_agent_text.diff",
+      "diff_path": "patches/medium_valuation_agent_text.diff",
       "payloads": [
         {
           "modality": "text",
@@ -300,7 +300,7 @@
       "feature": "valuation",
       "surface": "agents",
       "variant": "image",
-      "diff_path": "generated-diffs/medium_valuation_agent_image.diff",
+      "diff_path": "patches/medium_valuation_agent_image.diff",
       "payloads": [
         {
           "modality": "image",
@@ -328,7 +328,7 @@
       "feature": "valuation",
       "surface": "agents",
       "variant": "both",
-      "diff_path": "generated-diffs/medium_valuation_agent_both.diff",
+      "diff_path": "patches/medium_valuation_agent_both.diff",
       "payloads": [
         {
           "modality": "text",
@@ -368,7 +368,7 @@
       "feature": "valuation",
       "surface": "code",
       "variant": "text",
-      "diff_path": "generated-diffs/medium_valuation_code_text.diff",
+      "diff_path": "patches/medium_valuation_code_text.diff",
       "payloads": [
         {
           "modality": "text",
@@ -390,7 +390,7 @@
       "feature": "valuation",
       "surface": "code",
       "variant": "image",
-      "diff_path": "generated-diffs/medium_valuation_code_image.diff",
+      "diff_path": "patches/medium_valuation_code_image.diff",
       "payloads": [
         {
           "modality": "image",
@@ -418,7 +418,7 @@
       "feature": "valuation",
       "surface": "docs",
       "variant": "text",
-      "diff_path": "generated-diffs/medium_valuation_code+reference_text.diff",
+      "diff_path": "patches/medium_valuation_code+reference_text.diff",
       "payloads": [
         {
           "modality": "text",
@@ -446,7 +446,7 @@
       "feature": "valuation",
       "surface": "code",
       "variant": "both",
-      "diff_path": "generated-diffs/medium_valuation_code_both.diff",
+      "diff_path": "patches/medium_valuation_code_both.diff",
       "payloads": [
         {
           "modality": "text",
@@ -486,7 +486,7 @@
       "feature": "valuation",
       "surface": "docs",
       "variant": "image",
-      "diff_path": "generated-diffs/medium_valuation_docs_image.diff",
+      "diff_path": "patches/medium_valuation_docs_image.diff",
       "payloads": [
         {
           "modality": "image",
@@ -514,7 +514,7 @@
       "feature": "valuation",
       "surface": "docs",
       "variant": "both",
-      "diff_path": "generated-diffs/medium_valuation_docs_both.diff",
+      "diff_path": "patches/medium_valuation_docs_both.diff",
       "payloads": [
         {
           "modality": "text",
@@ -560,7 +560,7 @@
       "feature": "upload",
       "surface": "agents",
       "variant": "text",
-      "diff_path": "generated-diffs/hard_upload_agents+docs+agent_2.diff",
+      "diff_path": "patches/hard_upload_agents+docs+agent_2.diff",
       "payloads": [
         {
           "modality": "text",
@@ -588,7 +588,7 @@
       "feature": "upload",
       "surface": "code",
       "variant": "image",
-      "diff_path": "generated-diffs/hard_upload_agents+code_image.diff",
+      "diff_path": "patches/hard_upload_agents+code_image.diff",
       "payloads": [
         {
           "modality": "image",
@@ -616,7 +616,7 @@
       "feature": "upload",
       "surface": "code",
       "variant": "text",
-      "diff_path": "generated-diffs/hard_upload_agents+docs+code_text.diff",
+      "diff_path": "patches/hard_upload_agents+docs+code_text.diff",
       "payloads": [
         {
           "modality": "text",
@@ -644,7 +644,7 @@
       "feature": "upload",
       "surface": "agents",
       "variant": "image",
-      "diff_path": "generated-diffs/hard_upload_agents+docs+image.diff",
+      "diff_path": "patches/hard_upload_agents+docs+image.diff",
       "payloads": [
         {
           "modality": "image",
@@ -677,7 +677,7 @@
       "feature": "upload",
       "surface": "docs",
       "variant": "text",
-      "diff_path": "generated-diffs/hard_upload_agents+docs_text.diff",
+      "diff_path": "patches/hard_upload_agents+docs_text.diff",
       "payloads": [
         {
           "modality": "text",
@@ -699,7 +699,7 @@
       "feature": "upload",
       "surface": "docs",
       "variant": "image",
-      "diff_path": "generated-diffs/hard_upload_docs_image.diff",
+      "diff_path": "patches/hard_upload_docs_image.diff",
       "payloads": [
         {
           "modality": "image",
@@ -727,7 +727,7 @@
       "feature": "upload",
       "surface": "agents",
       "variant": "both",
-      "diff_path": "generated-diffs/hard_upload_agents_both.diff",
+      "diff_path": "patches/hard_upload_agents_both.diff",
       "payloads": [
         {
           "modality": "text",
@@ -773,7 +773,7 @@
       "feature": "upload",
       "surface": "code",
       "variant": "both",
-      "diff_path": "generated-diffs/hard_upload_code_both.diff",
+      "diff_path": "patches/hard_upload_code_both.diff",
       "payloads": [
         {
           "modality": "text",
@@ -819,7 +819,7 @@
       "feature": "upload",
       "surface": "docs",
       "variant": "both",
-      "diff_path": "generated-diffs/hard_upload_docs_both.diff",
+      "diff_path": "patches/hard_upload_docs_both.diff",
       "payloads": [
         {
           "modality": "text",
@@ -857,6 +857,33 @@
           ]
         }
       ]
+    },
+    {
+      "id": "easy-filter-none",
+      "difficulty": "easy",
+      "feature": "filter",
+      "surface": "clean",
+      "variant": "none",
+      "diff_path": "patches/easy_filter_none.diff",
+      "payloads": []
+    },
+    {
+      "id": "medium-valuation-none",
+      "difficulty": "medium",
+      "feature": "valuation",
+      "surface": "clean",
+      "variant": "none",
+      "diff_path": "patches/medium_valuation_none.diff",
+      "payloads": []
+    },
+    {
+      "id": "hard-upload-none",
+      "difficulty": "hard",
+      "feature": "upload",
+      "surface": "clean",
+      "variant": "none",
+      "diff_path": "patches/hard_upload_none.diff",
+      "payloads": []
     }
   ]
 }
