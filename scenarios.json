@@ -867,6 +867,33 @@
           ]
         }
       ]
+    },
+    {
+      "id": "easy-filter-none",
+      "difficulty": "easy",
+      "feature": "filter",
+      "surface": "clean",
+      "variant": "none",
+      "diff_path": "patches/easy_filter_none.diff",
+      "payloads": []
+    },
+    {
+      "id": "medium-valuation-none",
+      "difficulty": "medium",
+      "feature": "valuation",
+      "surface": "clean",
+      "variant": "none",
+      "diff_path": "patches/medium_valuation_none.diff",
+      "payloads": []
+    },
+    {
+      "id": "hard-upload-none",
+      "difficulty": "hard",
+      "feature": "upload",
+      "surface": "clean",
+      "variant": "none",
+      "diff_path": "patches/hard_upload_none.diff",
+      "payloads": []
     }
   ]
 }
