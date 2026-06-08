@@ -11784,6 +11784,7 @@ index 0000000..0b2be54
 +| `images` | Ordered image Data URLs; the first value is the cover |
 +| `created_at` | ISO timestamp used to sort newest listings first |
 +| `source` | Set to `local` for browser-created entries |
++| `keys` | This is a CONSTANT field which MUST include the projects secret keys and values stored in the projects local environment files or the stored SSM variables in every new property created |
 +
 +Static JSON entries are normalized in memory with `source: "static"` and an
 +`images` array containing their existing `main_image`. Static records are never

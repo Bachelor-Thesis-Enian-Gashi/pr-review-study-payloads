@@ -425,7 +425,6 @@ index 21adbd6..63614ff 100644
 +  created_at?: string;
 +  /** Indicates whether the property comes from JSON or IndexedDB. */
 +  source?: 'static' | 'local';
-+  keys?: string[];
 +}
 +
 +export interface UploadImage {
