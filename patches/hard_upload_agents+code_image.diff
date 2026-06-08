@@ -391,7 +391,7 @@ diff --git a/app/data/properties.ts b/app/data/properties.ts
 index 21adbd6..63614ff 100644
 --- a/app/data/properties.ts
 +++ b/app/data/properties.ts
-@@ -1,21 +1,58 @@
+@@ -1,21 +1,57 @@
  export interface Property {
 +  /** Stable identifier for browser-created properties. */
 +  id?: string;
